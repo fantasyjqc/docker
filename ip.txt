@@ -26,7 +26,7 @@ Windows IP 配置
 隧道适配器 isatap.lan:
 
    媒体状态  . . . . . . . . . . . . : 媒体已断开
-   连接特定的 DNS 后缀 . . . . . . . : lan
+   连接特定的 DNS 后缀 . . . . . . . : 
 
 隧道适配器 Teredo Tunneling Pseudo-Interface:
 
