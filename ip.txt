@@ -31,8 +31,8 @@ Windows IP 配置
 隧道适配器 Teredo Tunneling Pseudo-Interface:
 
    连接特定的 DNS 后缀 . . . . . . . : 
-   IPv6 地址 . . . . . . . . . . . . : 2001:0:9d38:953c:2042:f41f:8bf8:291e
-   本地链接 IPv6 地址. . . . . . . . : fe80::2042:f41f:8bf8:291e%15
+   IPv6 地址 . . . . . . . . . . . . : 2001:0:9d38:953c:1c95:ebf7:8bf8:28d0
+   本地链接 IPv6 地址. . . . . . . . : fe80::1c95:ebf7:8bf8:28d0%15
    默认网关. . . . . . . . . . . . . : ::
 
 隧道适配器 isatap.{322FFB8C-4CD2-432A-AA39-8EEB8CD6F9DD}:
